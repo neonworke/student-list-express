@@ -14,7 +14,10 @@ Student list fetched into postman using Express JS.
 <br></br>
 <h2>Learning Outcome</h2>
   <em>Deployment to Heroku using CLI</em>
-
+  
+<h2>Demo URL for postman</h2>
+  https://pure-mountain-74593.herokuapp.com/student/studentsList
+  
 <br></br>
 <h2>Project Screenshot:-</h2>
 <h3>Postman Ouput</h3>
